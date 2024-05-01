@@ -11,6 +11,7 @@ Recursos do Azure necessários
 1. Crie um recurso do Azure AI Search
 2. Crie um recurso de serviços de IA do Azure
 3. Crie uma conta de armazenamento
+![image](https://github.com/wtnscti/dio-ai900-azure-cognitive-search/assets/140925920/074beb70-f583-4fdb-9a53-0855170f2c12)
 
 # Carregar documentos para o armazenamento do Azure
 1. Baixa as avaliações e extraia os arquivos https://aka.ms/mslearn-coffee-reviews
