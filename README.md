@@ -3,6 +3,8 @@
 1 - Laboratório DIO sobre a Certificação AI900 - Azure Cognitive Search
 
 Acesse sua conta no portal Microsoft : https://portal.azure.com/#home
+![image](https://github.com/wtnscti/dio-ai900-azure-cognitive-search/assets/140925920/a808e72c-e7bb-4268-9004-3bf83d5f7eec)
+
 
 # Explore um índice do Azure AI Search (UI)
 Recursos do Azure necessários
